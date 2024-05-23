@@ -1,7 +1,5 @@
 # PowerBI Project: Data Professional Survey Breakdown
 
-# Data Professional Survey Breakdown
-
 ## Overview
 The **Data Professional Survey Breakdown** project report analyzes survey data collected from data professionals worldwide. The survey covers various aspects related to their roles, salaries, satisfaction, and preferences. By diving into this dataset, we gain valuable insights into the data industry.
 
